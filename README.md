@@ -22,4 +22,4 @@ The edition of the NH is available on LacusCurtius (https://penelope.uchicago.ed
 
 ### Gazetteers
 
-Pleiades (https://pleiades.stoa.org/) is a community-built gazetteer and graph of ancient places and reference website. It provides different download formats, including the the JavaScript Object Notation (JSON), that is the a comprehensive dump containing the attributes of place, name, name variants, location, and connection objects in the database.
+Pleiades (https://pleiades.stoa.org/) is a community-built gazetteer and graph of ancient places and reference website. It provides different download formats, including the the JavaScript Object Notation (JSON) containing the attributes of place, name, name variants, location, and connection objects in the database.
