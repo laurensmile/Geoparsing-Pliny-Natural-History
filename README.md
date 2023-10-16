@@ -1,6 +1,6 @@
 # Geoparsing Pliny the Elder's Natural History
 
-*The **Geoparsing Pliny Natural History** is the first workpackage of my PhD project 'Greek Spaces in Roman Times. The construction of Greek geography in Pliny's Naturalis Historia' that aims at analyzing the geographic description of Greece in Pliny's encyclopedia. The scope of this package is to identify place names in the NH and disambiguate them by stable IDs.*
+*The **Geoparsing Pliny Natural History** is the first workpackage of my PhD project 'Greek Spaces in Roman Times' that aims at analyzing the geographic description of Greece in Pliny's encyclopedia. The scope of this package is to identify place names in the NH and disambiguate them by stable IDs.*
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## Description 
 
-The jupiternotebooks contain the code to extract the annotations for places and people present in the ToposText's online version of the Natural History, evaluate the quality of the annotation against a manually curated Gold Standard, and enhance the annotation thought Named Entity Recognition. A text alignment technique between English and Latin based on string similarity is described and a ruled-based disambiguation system through online gazetteers is developed. Preliminary investigations of content modelling based on co-occurrence are performed by SNA.
+The JupiterNotebook contain the code written to extract the annotations for places in ToposText, evaluate the quality of the annotation against a manually curated Gold Standard, and enhance the annotation thought Named Entity Recognition. A text alignment technique between English and Latin based on string similarity is described and a ruled-based disambiguation system through online gazetteers is developed. Preliminary investigations of content modelling based on co-occurrence are performed by SNA.
 
 ## Data Sources
 ### NH annotated text
@@ -17,8 +17,6 @@ The jupiternotebooks contain the code to extract the annotations for places and 
 ToposText (https://topostext.org) is an online repository of Classical texts in translation. Texts are annotated by a ruled-based method using tags for places and people. Each entity is associated with a stable ID and place-tags also contain geographic coordinates, region and country labels.
 
 ### NH Latin text
-
-The edition of the NH is available on LacusCurtius (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Pliny_the_Elder/home.html).
 
 ### Gazetteers
 
