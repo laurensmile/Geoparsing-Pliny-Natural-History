@@ -1,1 +1,1 @@
-
+Each file contains the Latin sentences in NH 37 books. The text derive from Perseus Project. Sentences are split at the full stop level with some adjustments.
